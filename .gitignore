@@ -1,0 +1,19 @@
+# 编译产物
+*.o
+*.out
+
+# macOS 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE 目录
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude 配置
+.claude/
